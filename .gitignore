@@ -1,0 +1,15 @@
+# Sách gốc và ảnh trang sách: chỉ dùng trên máy, không đưa lên GitHub
+sach-pdf/
+pages/
+extracted/
+
+# Tạo tự động
+app/node_modules/
+app/dist/
+tools/_contact.png
+__pycache__/
+*.pyc
+
+# Cài đặt riêng của máy
+.claude/settings.local.json
+tools/_*.png
